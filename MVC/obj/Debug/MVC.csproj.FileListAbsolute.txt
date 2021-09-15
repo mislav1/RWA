@@ -1,2 +1,0 @@
-C:\Users\mislav\Desktop\RWA PROJEKT\Rwa_projekt\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
-C:\Users\mislav\Desktop\RWA PROJEKT\Rwa_projekt\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
